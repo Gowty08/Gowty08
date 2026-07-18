@@ -30,10 +30,6 @@
   <img src="https://img.shields.io/badge/Open%20To-Full%20Time-success?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gowty08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
-
 ---
 
 
