@@ -324,11 +324,6 @@ CGPA **7.8 / 10**
 
 ---
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Gowty08/Gowty08/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
