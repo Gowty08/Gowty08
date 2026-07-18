@@ -21,9 +21,8 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Gowty08&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Gowty08&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
-
 ---
 
 # 🚀 About Me
