@@ -213,19 +213,19 @@ Python • Artificial Intelligence
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Gowty08&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gowty08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Gowty08&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Gowty08&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowty08&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowty08&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </p>
 
