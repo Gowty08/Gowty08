@@ -223,12 +223,6 @@ Python • Artificial Intelligence
 
 </p>
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowty08&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 # 📈 Contribution Graph
