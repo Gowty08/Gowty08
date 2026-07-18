@@ -219,8 +219,6 @@ Python • Artificial Intelligence
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gowty08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=Gowty08&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
