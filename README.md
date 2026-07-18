@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gowty08&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gowty08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
