@@ -235,9 +235,7 @@ Python • Artificial Intelligence
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gowty08&theme=tokyonight&row=2&column=4"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gowty08&theme=tokyonight"/>
 </p>
 
 ---
