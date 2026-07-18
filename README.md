@@ -1,29 +1,41 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=R%20Gowtham%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Data%20Engineering%20%7C%20Python%20Developer&descAlignY=60&descSize=18"/>
-</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=👋+Hi+I'm+R+Gowtham+Kumar;Artificial+Intelligence+%26+Data+Science+Graduate;Aspiring+Data+Engineer;Python+%7C+SQL+%7C+Machine+Learning;ETL+Pipelines+%7C+Data+Warehousing;Always+Learning+New+Technologies"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=R%20Gowtham%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Data%20Engineering%20%7C%20Python%20Developer&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-<a href="mailto:gowty08@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gowtham-kumar-ba1a1029b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Gowty08">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=%F0%9F%91%8B+Hi%2C+I'm+R+Gowtham+Kumar;Artificial+Intelligence+%26+Data+Science+Graduate;Aspiring+AI+%26+Data+Engineer;Python+%7C+SQL+%7C+Machine+Learning;ETL+Pipelines+%7C+Data+Warehousing;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gowty08&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <a href="mailto:gowty08@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/gowtham-kumar-ba1a1029b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Gowty08">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Gowty08?tab=followers">
+    <img src="https://img.shields.io/github/followers/Gowty08?label=Followers&style=for-the-badge&color=0A66C2"/>
+  </a>
+
+  <img src="https://img.shields.io/github/last-commit/Gowty08/Gowty08?style=for-the-badge&color=orange"/>
+
+  <img src="https://img.shields.io/badge/Open%20To-Full%20Time-success?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gowty08&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 ---
+
 
 # 🚀 About Me
 
